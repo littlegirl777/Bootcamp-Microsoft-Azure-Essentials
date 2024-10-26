@@ -1,9 +1,5 @@
----
-title: Untitled
 
----
-
-![image2544566](https://hackmd.io/_uploads/rkO28ysxJe.jpg)
+![image2544566](https://github.com/user-attachments/assets/051e5aab-0b0f-4ca0-b1db-a6226fd189dc)
 
 
 ## Repositório de Estudos AZ-900
