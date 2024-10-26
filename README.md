@@ -34,10 +34,10 @@ Aqui estão alguns dos recursos principais que estou utilizando para garantir um
 ## 💻 Projetos e Desafios propostos
 Neste repositório você encontrará a prática colocada em ação! Confira os códigos dos projetos e desafios completados, com foco em aplicar os conceitos de cloud computing e Azure:
 
-- [x] - **Projeto 1**: Criação de uma máquina virtual no Azure
-- [x] - **Desafio 2**:  Configuração de um serviço na Azure
-- [x] - **Projeto 3**: Criação de Infraestrutura no Azure
-- [x] - **Projeto 4**: Configurando Recursos
+- [x] - Projeto 1: Criação de uma máquina virtual no Azure
+- [x] - Projeto 2:  Configuração de um serviço na Azure
+- [x] - Projeto 3: Criação de Infraestrutura no Azure
+- [x] - Projeto 4: Configurando Recursos
 
 ---
 
