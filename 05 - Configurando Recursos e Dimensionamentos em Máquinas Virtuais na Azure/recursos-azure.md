@@ -62,4 +62,11 @@ Há dois tipos de bloqueios de recursos, um que impede que os usuários excluam 
 A exclusão significa que os usuários autorizados ainda poderão ler e modificar um recurso, mas não poderão excluir o recurso.
 ReadOnly significa que os usuários autorizados poderão ler um recurso, mas não poderão excluir ou atualizar o recurso. Aplicar esse bloqueio é semelhante ao restringir todos os usuários autorizados para as permissões concedidas pela função Leitor.
 
+### Aplicação de Bloqueios
+ Os bloqueios podem ser aplicados em diferentes níveis:
+
+- Assinatura: Afeta todos os recursos dentro da assinatura.
+- Grupo de Recursos: Afeta todos os recursos dentro do grupo.
+- Recurso Individual: Afeta apenas o recurso específico.
+
 ![image](https://github.com/user-attachments/assets/cd7232cb-2d0b-48fe-ad2f-2492c01c1714)
