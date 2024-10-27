@@ -17,9 +17,12 @@ Como acessar o Monitor no Portal do Azure:
 3. Explore as funcionalidades como métricas, logs e alertas.
 
 ## Advisor (Assistente do Azure)
-![image](https://github.com/user-attachments/assets/e08b2e75-c019-44e8-8cd6-b133d8bf09f8)
+![image](https://github.com/user-attachments/assets/c1b01e34-db44-48fb-aea7-7f4164fe05cf)
+
 
 O Azure Advisor é uma ferramenta integrada do Azure que oferece recomendações personalizadas para otimizar suas configurações na nuvem. Ele analisa o ambiente e fornece sugestões em cinco categorias principais: custo, segurança, confiabilidade, desempenho e excelência operacional.
+![image](https://github.com/user-attachments/assets/69129fce-dd00-4e88-bdf5-4222c4ccfb4d)
+
 
 ![image](https://github.com/user-attachments/assets/dc107bbc-ef1d-4058-babc-ed830569d465)
 
@@ -29,9 +32,13 @@ Como acessar o Advisor no Portal do Azure:
 3. Veja recomendações de otimização, segurança, confiabilidade e desempenho.
 
 ## Service Health
-![image](https://github.com/user-attachments/assets/3e0ecc88-c991-45ec-9b82-b98aa2fe62a0)
+![image](https://github.com/user-attachments/assets/0d470fea-a84d-44de-9477-0e766fb8a011)
+
 
 O Azure Service Health é uma ferramenta que fornece informações em tempo real sobre o estado dos serviços do Azure e o impacto de eventos operacionais no seu ambiente. Ele oferece alertas e atualizações sobre incidentes, manutenção planejada e problemas que possam afetar suas aplicações e recursos no Azure. Através do Service Health, você pode acompanhar o status de serviço, receber notificações sobre problemas e visualizar histórico de eventos, ajudando a gerenciar e mitigar possíveis impactos na disponibilidade e desempenho dos seus serviços na nuvem.
+
+![image](https://github.com/user-attachments/assets/fcbd4554-1b1a-4b6f-993f-6d653ec31744)
+
 
 
 Como acessar o Service Health no Portal do Azure:
