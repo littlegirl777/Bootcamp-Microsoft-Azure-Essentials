@@ -45,7 +45,7 @@ Neste repositório você encontrará a prática colocada em ação! Confira os c
 
 🔗https://mm.tt/app/map/3445654671?t=Wa9XfcoVLO (Autor: Erik Bosco)
 
-## Observação ‼️
+## ⚠️ Observação ‼️ ⚠️ 
 
 Este repositório tem o objetivo de armazenar materiais, dicas e anotações sobre fundamentos da Azure. Sinta-se à vontade para clonar, utilizar ou contribuir com melhorias e sugestões. :)
 
