@@ -23,7 +23,7 @@ Aqui estão alguns dos recursos principais que estou utilizando para garantir um
 - [Azure Fundamentals Learning (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 - [Guia de Estudos AZ-900 (Whizlabs)](https://www.whizlabs.com/blog/az-900-microsoft-azure-fundamentals-exam-preparation-guide/)
 - [Guia de Estudos AZ-900 (Luiz Bernardo)](https://dev.to/bernardo/guia-de-estudos-az-900-certificacao-azure-fundamentals-51m9)
-- [Playlist de Vídeos para o Exame AZ-900 (YouTube)](https://www.youtube.com/playlist?list=PLlVtbbG169nF_UdPRb4hkpZ0cNyLpvb2T)
+- [Playlist de Vídeos para o Exame AZ-900 (YouTube)](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=wZzBGVws4e9coOlN)
 
 ---
 
