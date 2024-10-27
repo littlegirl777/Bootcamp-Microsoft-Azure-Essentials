@@ -5,7 +5,8 @@
 
 A criação de uma VM no Azure deve considerar **redundância** e o **SLA** para garantir alta disponibilidade e confiabilidade. A redundância envolve replicar recursos em diferentes zonas de disponibilidade ou conjuntos de disponibilidade, reduzindo riscos de falhas. O **SLA** especifica a garantia de tempo de operação do serviço, que aumenta com configurações de redundância adequadas. Assim, escolher a configuração correta é essencial para atingir os níveis de disponibilidade desejados.
 
-![image](https://hackmd.io/_uploads/rkvGhGje1x.png)
+![image](https://github.com/user-attachments/assets/bee0457f-1c14-40f5-8b3f-07d9bfe5b8f3)
+
 
 🔗[SLA Microsoft](https://learn.microsoft.com/pt-br/azure/well-architected/reliability/metrics)
 
@@ -14,7 +15,7 @@ A criação de uma VM no Azure deve considerar **redundância** e o **SLA** para
 
 ## 1. Acessando o Portal do Azure
 
-Acesse o [portal do Azure](https://portal.azure.com). 
+Acesse o [portal do Azure](https://portal.azure.com), busque pelo serviço "Máquinas Virtuais" ou "Virtual Machines".
 
 
 ## 2. Iniciando a Criação da VM 
@@ -26,6 +27,11 @@ No painel do Azure, siga os passos abaixo para começar o processo de criação 
 
 - Na barra de pesquisa, digite "Máquinas Virtuais" ou "Virtual Machines" e selecione a opção no menu suspenso.
 - Clique no botão **"Criar"** e escolha **"Máquina Virtual"**.
+
+  ![image](https://github.com/user-attachments/assets/8492aa1b-980d-4628-8b02-33366c93b801)
+
+- Documentação auxiliar: [Virtual Machines](https://learn.microsoft.com/pt-br/azure/virtual-machines/)
+
 
 ---
 
