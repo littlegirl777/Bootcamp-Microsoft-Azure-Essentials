@@ -2,11 +2,11 @@
 ![image2544566](https://github.com/user-attachments/assets/051e5aab-0b0f-4ca0-b1db-a6226fd189dc)
 
 
-## Repositório de Estudos AZ-900
+## 📚 Repositório de Armazenamento da trilha de Estudos do Bootcamp AZ-900
 
 Este repositório foi criado para compartilhar alguns estudos e projetos, além de materiais relacionados ao bootcamp *Azure Essentials* da Dio - Digital Innovation One. 
 
-## Estrutura do Repositório
+## 📌 Estrutura do Repositório:
 
 *Este repositório está organizado para facilitar o acompanhamento dos meus estudos e compartilhar o conhecimento adquirido ao longo do caminho.*
 
@@ -16,7 +16,7 @@ Este repositório foi criado para compartilhar alguns estudos e projetos, além 
 
 ---
 
-## Documentação Oficial 
+## 📄 Documentação Oficial 
 Aqui estão alguns dos recursos principais que estou utilizando para garantir uma boa base no conteúdo do AZ-900:
 
 - [Documentação Oficial do Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-900)
@@ -26,8 +26,6 @@ Aqui estão alguns dos recursos principais que estou utilizando para garantir um
 - [AZ-900 Certification Practice Test (MeasureUp)](https://www.measureup.com/Microsoft-Azure-Fundamentals-AZ-900_p_6908.html)
 - [AZ-900 MindMap - Mapas Mentais para Revisão](https://github.com/techexpertin/azure-az-900-mindmap)
 - [Playlist de Vídeos para o Exame AZ-900 (YouTube)](https://www.youtube.com/playlist?list=PLlVtbbG169nF_UdPRb4hkpZ0cNyLpvb2T)
-
-
 
 ---
 
@@ -40,6 +38,12 @@ Neste repositório você encontrará a prática colocada em ação! Confira os c
 - [x] - Projeto 4: Configurando Recursos
 
 ---
+
+## Mapa Mental dos contúudos Fundamentais da Azure:
+
+![image](https://github.com/user-attachments/assets/cfe69ecb-573e-4b90-9a2d-f498b1c2c72d)
+
+🔗https://mm.tt/app/map/3445654671?t=Wa9XfcoVLO (Autor: Erik Bosco)
 
 ## Observação ‼️
 
