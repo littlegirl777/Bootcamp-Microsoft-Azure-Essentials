@@ -12,7 +12,9 @@ Este guia fornece um passo a passo simples para configurar uma Conta de Armazena
 
 
 ### 2. Configure a Conta de Armazenamento 
-- **Nome da Conta**: Escolha um nome único para a sua conta de armazenamento (por exemplo: `minhaempresaarmazenamento`).
+- **Nome da Conta**: Escolha um nome único para a sua conta de armazenamento (por exemplo: `meunovocliente20102024`).
+- ![image](https://github.com/user-attachments/assets/a4bf6346-d2f9-4297-a4e5-263856334e76)
+
   
 - **Região**: Selecione a região mais próxima de sua localização ou da de seus usuários para garantir melhor performance.
 
