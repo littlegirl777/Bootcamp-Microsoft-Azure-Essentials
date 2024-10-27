@@ -20,11 +20,9 @@ Este repositório foi criado para compartilhar alguns estudos e projetos, além 
 Aqui estão alguns dos recursos principais que estou utilizando para garantir uma boa base no conteúdo do AZ-900:
 
 - [Documentação Oficial do Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-900)
-- [Azure Fundamentals Learning Path (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+- [Azure Fundamentals Learning (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 - [Guia de Estudos AZ-900 (Whizlabs)](https://www.whizlabs.com/blog/az-900-microsoft-azure-fundamentals-exam-preparation-guide/)
-- [Cursinho Gratuito sobre Azure (Microsoft)](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-- [AZ-900 Certification Practice Test (MeasureUp)](https://www.measureup.com/Microsoft-Azure-Fundamentals-AZ-900_p_6908.html)
-- [AZ-900 MindMap - Mapas Mentais para Revisão](https://github.com/techexpertin/azure-az-900-mindmap)
+- [Guia de Estudos AZ-900 (Luiz Bernardo)](https://dev.to/bernardo/guia-de-estudos-az-900-certificacao-azure-fundamentals-51m9)
 - [Playlist de Vídeos para o Exame AZ-900 (YouTube)](https://www.youtube.com/playlist?list=PLlVtbbG169nF_UdPRb4hkpZ0cNyLpvb2T)
 
 ---
