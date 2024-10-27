@@ -23,7 +23,6 @@ Na página inicial são exibidos alguns dos principais serviços disponíveis no
 Outra forma de acessar todos os serviços é utilizando o menu laterial e selecionando a opção "Todos os serviços":
 
 
-
 Ao acessar essa opção serão exibidos todos os serviços disponíveis no portal do Microsoft Azure separados por categoria.
 Através do menu lateral esquerdo, é possível selecionar a categoria desejada para encontrar um produto específico.
 
