@@ -1,8 +1,3 @@
----
-title: azure
-
----
-
 # Criação de Máquina Virtual na Azure 🌐
 
 
