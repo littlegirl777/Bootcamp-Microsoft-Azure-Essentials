@@ -3,12 +3,12 @@
 
 ![global-azure](image.png)
 
-[Infraestrutura global do Azure](https://datacenters.microsoft.com/globe/explore/)
+Fonte: [Infraestrutura global do Azure](https://datacenters.microsoft.com/globe/explore/)
 
-
-[Azure Resource Manager](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/?WT.mc_id=APC-Resourcegroups).
 
 ## Introdução
+
+- [Azure Resource Manager](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/?WT.mc_id=APC-Resourcegroups).
 
 Este desafio consiste em explorar o portal do Microsoft Azure, fornecendo instruções sobre como criar um Grupo de Recursos.
 Um grupo de recursos é um contêiner lógico para recursos implantados no Azure. Esses recursos são tudo o que você criar em uma assinatura do Azure como máquinas virtuais, Gateways de Aplicativo e instâncias do Cosmos DB.
@@ -35,10 +35,7 @@ Grupos de recursos também são um escopo para a aplicação de permissões de R
 ### Explorando um Grupo de Recursos
 
 1. No menu portal do Azure ou na página Inicial, em Serviços do Azure, selecione Grupos de recursos.
-2. Na lista, selecione o grupo de recursos recém-criado. O painel Grupo de recursos é exibido.
-
-![Painel Grupo de Recursos](grupo-recursos.png)
-
+2. Na lista, selecione o grupo de recursos recém-criado. O painel Grupo de recursos é exibido
 3. Na página Visão geral, você encontrará as informações básicas sobre o grupo de recursos, como a assinatura em que ele reside, a ID da assinatura, as marcas aplicadas e um histórico das implantações feitas nele.
 4. Em IAM (Controle de acesso), é possível conceder ou remover o permissionamento de acesso aos usuários.
 
@@ -54,7 +51,7 @@ Grupos de recursos também são um escopo para a aplicação de permissões de R
 8. Selecione Revisar + criar e, depois de passar na validação, selecione Criar para adicionar a rede virtual ao seu grupo de recursos.
 9. Volte para o grupo de recursos. A rede virtual deverá aparecer no painel Visão geral.
 
-![Painel Grupo de Recursos Com Recurso](grupo-recursos-com-recurso.png)
+
 
 Você poderia criar mais recursos dentro deste grupo de recursos ou criar mais grupos de recursos na assinatura e implantar os recursos nesses grupos de recursos. Ao criar recursos, você geralmente tem a opção de criar um grupo de recursos como uma alternativa a usar um grupo de recursos existente.
 
